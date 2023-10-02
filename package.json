@@ -1,6 +1,7 @@
 {
   "name": "weather-app-react",
   "version": "0.1.0",
+  "homepage": "https://surbhi6061.github.io/React_Weather_app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
