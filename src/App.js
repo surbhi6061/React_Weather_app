@@ -22,6 +22,7 @@ function App() {
   };
 
   return (
+    
     <div className="app">
       <div className="search">
         <input
@@ -45,7 +46,7 @@ function App() {
           </div>
         </div>
 
-        {data.name !== undefined && (
+        {/* {data.name !== undefined && (
           <div className="bottom">
             <div className="feels">
               {data.main ? (
@@ -62,7 +63,7 @@ function App() {
               <p>Wind Speed</p>
             </div>
           </div>
-        )}
+        )} */}
       </div>
     </div>
   );
